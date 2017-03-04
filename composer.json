@@ -1,0 +1,15 @@
+{
+  "name": "tekmi/image-recognition-trials",
+  "description": "Trial and error with various image recognition libs/APIs",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Adam Gegotek",
+      "email": "developer@tekmi.nl"
+    }
+  ],
+  "require": {
+    "google/cloud": "v0.22.0"
+  }
+}

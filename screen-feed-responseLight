@@ -1,0 +1,127 @@
+Texts:
+0: ..ooo KPN NL
+19:20
+81%
+O O O
+New in Symfony 3.3:
+Getter injection
+1 Symfony Blog by Nicolas Grekas 9 days ago
+Contributed by
+Nicolas Grekas
+in #20973.
+As part of our experimental features
+program, in Symfony 3.3 we've added a new
+feature called getter injection. This adds up
+to the usual mechanisms used for
+dependency injection and doesn't replace
+any of them. Instead, it provides an
+additional way that fits some specific use
+Cases.
+Getter injection allows the dependency
+injection container to leverage classes that
+provide inheritance-based extension points
+that matches the following requirements:
+public or protected methods with 7ero
+
+1: ..ooo
+2: KPN
+3: NL
+4: 19:20
+5: 81%
+6: O
+7: O
+8: O
+9: New
+10: in
+11: Symfony
+12: 3.3:
+13: Getter
+14: injection
+15: 1
+16: Symfony
+17: Blog
+18: by
+19: Nicolas
+20: Grekas
+21: 9
+22: days
+23: ago
+24: Contributed
+25: by
+26: Nicolas
+27: Grekas
+28: in
+29: #20973.
+30: As
+31: part
+32: of
+33: our
+34: experimental
+35: features
+36: program,
+37: in
+38: Symfony
+39: 3.3
+40: we've
+41: added
+42: a
+43: new
+44: feature
+45: called
+46: getter
+47: injection.
+48: This
+49: adds
+50: up
+51: to
+52: the
+53: usual
+54: mechanisms
+55: used
+56: for
+57: dependency
+58: injection
+59: and
+60: doesn't
+61: replace
+62: any
+63: of
+64: them.
+65: Instead,
+66: it
+67: provides
+68: an
+69: additional
+70: way
+71: that
+72: fits
+73: some
+74: specific
+75: use
+76: Cases.
+77: Getter
+78: injection
+79: allows
+80: the
+81: dependency
+82: injection
+83: container
+84: to
+85: leverage
+86: classes
+87: that
+88: provide
+89: inheritance-based
+90: extension
+91: points
+92: that
+93: matches
+94: the
+95: following
+96: requirements:
+97: public
+98: or
+99: protected
+100: methods
+101: with
+102: 7ero
